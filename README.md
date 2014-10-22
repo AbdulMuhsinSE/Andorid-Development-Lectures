@@ -8,7 +8,7 @@ The workshop is currently held on a weekly basis:
 Thursday, 4:00pm @ Monmouth University, Howard Hall, Room 311 (CS/SE Lounge)
 
 To sign up for updates on the lectures, and to be updated on any change contact one of us through the one of the contact methods
-provided.
+provided below.
 
 
 AbdulMuhsin J. Al-Kandari
