@@ -1,0 +1,8 @@
+Build an app that does the following:
+1. Invokes another activity, sends a message to that activity and shows it on the other activity.
+2. Can invoke the camera app.
+3. Implements resource use and proper resource destruction.
+4. Can be terminated through a button.
+Use the code that has been uploaded in MainActivity.java.html as a guide if you have a problem.
+(Note the code provided does not explicitly cover all of the above, but should contain enough information to
+help solve the problem.)
